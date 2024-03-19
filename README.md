@@ -16,12 +16,12 @@ Log files are named with the following format:
 Where:
 - `<category>` is the match category 
     - `q` for qualification matches
-    - `e` for elemenations
+    - `e` for eliminations
     - `p` for practice matches
 - `<match_number>` is the match number
 - `r<replay_number>` is the replay number (if applicable)
 
-### CADA
+### CADA - Sacramento Regional
 
 [Watch All Matches](https://www.youtube.com/watch_videos?video_ids=F3L5Y4-eJ3k,bLUotCv669I,J8XegJYn4Qw,hLACaRWA6Wc,z4MshUPncNg,HwF0EaQTC78,OgJYztYOhMA,Sl34dwJU1s0,XZcDsppLIZQ,aHjWwsYvRMc,GNeNg9grB3Q,ibkYpbmG-i4,BnzkoyEQlD8&title=Sacramento%20Regional%20(Team%202204))
 
@@ -33,6 +33,6 @@ cada
 └── practice
 ```
 
-### CABE
+### CABE - East Bay Regional
 
 This event has not occurred yet.
