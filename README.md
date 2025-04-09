@@ -34,3 +34,12 @@ cada
 ```
 
 ### CABE - East Bay Regional
+
+The `cabe` directory contains matches from the [2025](https://www.thebluealliance.com/event/2025cabe) east bay regional. 
+The `cabe` directory contains the following subdirectories:
+```
+cabe
+├── quals
+├── elims
+└── practice
+```
