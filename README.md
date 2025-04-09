@@ -1,6 +1,4 @@
-# frc-2024-matches
-
-![FRC2024](https://img.shields.io/badge/FIRST_Robotics_Competition-Crescendo_2024-0066B3?style=for-the-badge&logo=FIRST&link=https%3A%2F%2Fwww.firstinspires.org%2Frobotics%2Ffrc)
+# frc-team2204-matches
 
 AdvantageKit Logged Matches from Team 2204 Rambots
 
